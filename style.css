@@ -21,7 +21,7 @@ h1 { font-size: clamp(28px, 7vw, 38px); line-height: 1.2; margin: 0 0 4px; }
 h2 { font-size: 19px; margin: 36px 0 8px; color: var(--gold); }
 h3 { font-size: 16px; margin: 22px 0 4px; }
 p, li { color: var(--ink); }
-ul { padding-left: 1.2em; }
+ul, ol { padding-left: 1.2em; }
 li { margin: 4px 0; }
 a { color: var(--gold); }
 .meta { color: var(--muted); font-size: 14px; margin: 0 0 8px; }
